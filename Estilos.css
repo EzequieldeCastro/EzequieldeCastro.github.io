@@ -1,0 +1,47 @@
+
+* {
+  box-sizing: border-box;
+  font-size: 18px;
+  font-family: "Times New Roman", Times, serif;
+}
+
+.Cabeza-cv {
+  color: rgb(231, 232, 255);
+  text-align: center;
+  padding: 4%;
+  width: 90%;
+  font-weight: bold;
+  background-color: rgb(39, 42, 90);
+  margin-top: 2%;
+  margin-bottom: 2%;
+  height: 1200px;
+}
+
+.Cuerpo-cv {
+  margin-top: 2%;
+  margin-bottom: 2%;
+  padding: 1%;
+  text-align: justify;
+  width: 80%;
+}
+
+/** pos = Posición a llenar */
+.pos {
+  color: rgb(31, 31, 114);
+  font-size: 18px;
+}
+
+/** Cont = Contenedor */
+.Cont {
+  padding: 30px;
+}
+
+/** Cont-2 = Contenedor número 2 */ 
+.Cont-2 {
+  padding: 20px;
+}
+
+.demo {
+  display: none;
+}
+

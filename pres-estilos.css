@@ -1,0 +1,33 @@
+
+* {
+    box-sizing: border-box;
+    font-size: 18px;
+    font-family: "Times New Roman", Times, serif;
+  }
+
+.Cabeza {
+  margin-top: 1%;
+  padding: 1%;
+  text-align: justify;
+  width: 100%;
+}
+
+.Top {
+  margin-top: 1%;
+  margin-bottom: 3%;
+}
+
+.Cuello {
+  margin-bottom: 2%;
+  padding-right: 0%;
+  margin-right: 0%;
+  margin-left: 80%;
+  text-align: justify;
+}
+
+.Cuerpo {
+text-align: justify;
+background-color: white;
+margin-bottom: 4%;
+}
+
